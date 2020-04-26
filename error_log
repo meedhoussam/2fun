@@ -1,0 +1,66 @@
+[20-Mar-2020 17:07:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php:1041
+Stack trace:
+#0 /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Generic_Plugin.php(318): W3TC\Util_Environment::detect_post_id()
+#1 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): W3TC\Generic_Plugin->admin_bar_menu(Object(WP_Admin_Bar))
+#2 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/youinczo/en.2fun.club/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /home/youinczo/en.2fun.club/wp-includes/admin-bar.php(86): do_action_ref_array('admin_bar_menu', Array)
+#5 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): wp_admin_bar_render('')
+#6 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#7 /home/youinczo/en.2fun.club/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/youinczo/en.2fun.clu in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php on line 1041
+[20-Mar-2020 17:07:51 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php:1041
+Stack trace:
+#0 /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Generic_Plugin.php(318): W3TC\Util_Environment::detect_post_id()
+#1 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): W3TC\Generic_Plugin->admin_bar_menu(Object(WP_Admin_Bar))
+#2 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/youinczo/en.2fun.club/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /home/youinczo/en.2fun.club/wp-includes/admin-bar.php(86): do_action_ref_array('admin_bar_menu', Array)
+#5 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): wp_admin_bar_render('')
+#6 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#7 /home/youinczo/en.2fun.club/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/youinczo/en.2fun.clu in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php on line 1041
+[20-Mar-2020 17:27:56 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php:1041
+Stack trace:
+#0 /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Generic_Plugin.php(318): W3TC\Util_Environment::detect_post_id()
+#1 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): W3TC\Generic_Plugin->admin_bar_menu(Object(WP_Admin_Bar))
+#2 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/youinczo/en.2fun.club/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /home/youinczo/en.2fun.club/wp-includes/admin-bar.php(86): do_action_ref_array('admin_bar_menu', Array)
+#5 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): wp_admin_bar_render('')
+#6 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#7 /home/youinczo/en.2fun.club/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/youinczo/en.2fun.clu in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php on line 1041
+[20-Mar-2020 17:27:56 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php:1041
+Stack trace:
+#0 /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Generic_Plugin.php(318): W3TC\Util_Environment::detect_post_id()
+#1 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): W3TC\Generic_Plugin->admin_bar_menu(Object(WP_Admin_Bar))
+#2 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/youinczo/en.2fun.club/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /home/youinczo/en.2fun.club/wp-includes/admin-bar.php(86): do_action_ref_array('admin_bar_menu', Array)
+#5 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): wp_admin_bar_render('')
+#6 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#7 /home/youinczo/en.2fun.club/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/youinczo/en.2fun.clu in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php on line 1041
+[20-Mar-2020 17:27:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php:1041
+Stack trace:
+#0 /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Generic_Plugin.php(318): W3TC\Util_Environment::detect_post_id()
+#1 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): W3TC\Generic_Plugin->admin_bar_menu(Object(WP_Admin_Bar))
+#2 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/youinczo/en.2fun.club/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /home/youinczo/en.2fun.club/wp-includes/admin-bar.php(86): do_action_ref_array('admin_bar_menu', Array)
+#5 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): wp_admin_bar_render('')
+#6 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#7 /home/youinczo/en.2fun.club/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/youinczo/en.2fun.clu in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php on line 1041
+[21-Mar-2020 00:23:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Query as array in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php:1041
+Stack trace:
+#0 /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Generic_Plugin.php(318): W3TC\Util_Environment::detect_post_id()
+#1 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): W3TC\Generic_Plugin->admin_bar_menu(Object(WP_Admin_Bar))
+#2 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /home/youinczo/en.2fun.club/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /home/youinczo/en.2fun.club/wp-includes/admin-bar.php(86): do_action_ref_array('admin_bar_menu', Array)
+#5 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(288): wp_admin_bar_render('')
+#6 /home/youinczo/en.2fun.club/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#7 /home/youinczo/en.2fun.club/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#8 /home/youinczo/en.2fun.clu in /home/youinczo/en.2fun.club/wp-content/plugins/w3-total-cache/Util_Environment.php on line 1041

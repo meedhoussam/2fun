@@ -1,0 +1,17 @@
+msgid "next_text"
+msgstr ""
+
+msgid "next_text_post"
+msgstr ""
+
+msgid "prev_text"
+msgstr ""
+
+msgid "prev_text_post"
+msgstr ""
+
+msgid "navigation_text"
+msgstr ""
+
+msgid "helper_text"
+msgstr ""

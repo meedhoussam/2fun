@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /?blackhole
+Allow: /wp-admin/admin-ajax.php
+
+https://en.2fun.club/sitemap_index.xml

@@ -1,0 +1,1 @@
+<p><?php echo do_shortcode( str_replace( '{current_year}', date( 'Y' ), vce_get_option('footer_copyright') ) );?></p>

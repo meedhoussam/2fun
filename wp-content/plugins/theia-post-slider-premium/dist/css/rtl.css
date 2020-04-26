@@ -1,0 +1,9 @@
+.theiaPostSlider_nav._center_full ._prev {
+  float: right; }
+
+.theiaPostSlider_nav._center_full ._next {
+  float: left; }
+
+.theiaPostSlider_nav.center_half_width ._next,
+.theiaPostSlider_nav.center_full_width ._next {
+  order: 5; }
